@@ -1,0 +1,5 @@
+LS = untuk ngeliat ada apa aja didalam folder tempat kita berada.
+cd untuk masuk ke dalam folder.
+pwd untuk melihat kita ada di folder mana
+cd .. untuk kembali 
+
